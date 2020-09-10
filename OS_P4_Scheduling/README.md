@@ -1,7 +1,6 @@
 # OS_Project_4 : Scheduling
 
   - 본 과제는 FreeBSD 5.4 이후 구현된 실제 스케줄링 기법인 ULE(non-interacitve)를 구현한다.
-  - 
   
 ## 구현
 
